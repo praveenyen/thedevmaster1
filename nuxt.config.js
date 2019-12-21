@@ -9,7 +9,7 @@ const productionUrl = {
   en: "/en",
   es: "/es"
 };
-const baseUrl = 'https://praveenyen.com';
+const baseUrl = 'https://thedevmaster.com';
 
 module.exports = {
   env: {
@@ -26,7 +26,7 @@ module.exports = {
       { name: 'theme-color', content: '#c1c1c1' },
       { name: 'robots', content: 'index, follow' },
       { name: 'twitter:card', content: 'summary_large_image' },
-      { name: 'twitter:site', content: '@marinaaisa' },
+      { name: 'twitter:site', content: '@praveenyen' },
       { property: 'og:type', content: 'profile' },
       { property: 'og:updated_time', content: builtAt }
     ],
