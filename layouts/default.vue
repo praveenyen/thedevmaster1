@@ -4,6 +4,7 @@
     <Footer/>
   </div>
 </template>
+<script data-ad-client="ca-pub-7755399896554210" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <script>
   import Footer from '~/components/Sections/Footer'
 

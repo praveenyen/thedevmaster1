@@ -43,6 +43,7 @@
       </div>
     </div>
     <div class="container small">
+      <adsbygoogle />
       <client-only>
         <DynamicMarkdown
           :render-func="renderFunc"
@@ -50,6 +51,7 @@
           :extra-component="extraComponent" />
       </client-only>
     </div>
+    <adsbygoogle />
   </div>
 </template>
 

@@ -2,6 +2,7 @@
   <div class="page-index">
     <div class="container">
       <BlogSection :blogs="blogs"/>
+    <adsbygoogle />
     </div>
   </div>
 </template>
